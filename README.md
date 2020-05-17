@@ -5,3 +5,5 @@ My second Hello World
 RR workshop RStudio + Git repository
 
 My first commit to GitHub with R
+
+Check out this line
